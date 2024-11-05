@@ -4,7 +4,7 @@ using OpenQA.Selenium.Appium.Android;
 using OpenQA.Selenium.Support.UI;
 using Xunit;
 
-namespace XUnit_BrowserStack
+namespace XUnit_Appium_BrowserStack
 {
     public class SampleLocalTest : IClassFixture<BaseFixture>
     {

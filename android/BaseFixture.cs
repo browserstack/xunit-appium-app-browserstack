@@ -5,7 +5,7 @@ using OpenQA.Selenium.Appium;
 using OpenQA.Selenium;
 using BrowserStack;
 
-namespace XUnit_BrowserStack
+namespace XUnit_Appium_BrowserStack
 {
     public class BaseFixture : IDisposable
     {

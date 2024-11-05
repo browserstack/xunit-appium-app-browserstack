@@ -5,7 +5,7 @@ using OpenQA.Selenium.Appium.Android;
 using System.Collections.ObjectModel;
 using OpenQA.Selenium.Appium;
 
-namespace XUnit_BrowserStack
+namespace XUnit_Appium_BrowserStack
 {
     public class SampleTest : IClassFixture<BaseFixture>
     {
